@@ -1,4 +1,4 @@
 # IHT-demo
 This is my first Git Repository.
 <br>
-Author - Rupak Kumar
+Author - Rupak Kumar(Company)
